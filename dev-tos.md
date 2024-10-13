@@ -1,5 +1,9 @@
 # はなみすきー開発者規約
 
+<div style="text-align: right;">
+制定 2024/08/29
+</div>
+
 ## 0. 定義
 
 - **開発者リソース：** 本サービスにより提供されるMisskey APIやMiAuth
