@@ -8,3 +8,4 @@
 - [NSFWメディアガイドライン](sensitive-media-guidelines.md)
 - [センシティブな文章表現に関するガイドライン](sensitive-text-guidelines.md)
 - [開発者利用規約](dev-tos.md)
+- [ブランドアセット利用ガイドライン](assets-guidelines.md)
